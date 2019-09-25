@@ -10,3 +10,5 @@ We have chosen to work with PGA_Data: A historical dataset, which contains data 
 To answer the above problem statement, we have chosen six different abilities, which we believe have an influence on the income of the golf players. 
 
 In this assignment, we will use Machine Learning techniques to analyse and find patterns in the dataset, but also predict how many money some random players earns. We will use the two branches of Machine Learning; Unsupervised and Supervised Learning, which will be further elaborated later in this assignment.
+
+Link to Colab: https://colab.research.google.com/drive/1Xwu3ZVqFMwdJqjQeHr4OvbdOzgp3JxAX
